@@ -1,4 +1,11 @@
-# Welcome to OctoBot blog
+---
+title: Welcome to OctoBot blog
+subtitle: our new blog
+slug: welcome-to-octobot-blog
+tags: crypto, trading, python, blog
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649662225945/7f_c6UxhR.jpg?auto=compress
+domain: blog.octobot.online
+--- 
 
 Since 2018, OctoBot is an open source cryptocurrency trading bot that allow hundreds of users to trade easily with professional features.
 
