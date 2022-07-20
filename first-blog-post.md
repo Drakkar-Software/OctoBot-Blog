@@ -3,7 +3,7 @@ title: Welcome to OctoBot blog
 subtitle: our new blog
 slug: welcome-to-octobot-blog
 tags: crypto, trading, python, blog
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649662225945/7f_c6UxhR.jpg?auto=compress
+cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot/assets/OctoBot-icon-only.png
 domain: blog.octobot.online
 --- 
 
