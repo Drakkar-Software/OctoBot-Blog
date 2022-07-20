@@ -1,6 +1,6 @@
 ---
 title: Welcome to OctoBot blog
-subtitle: our new blog
+subtitle: 
 slug: welcome-to-octobot-blog
 tags: crypto, trading, python, blog
 cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot/assets/OctoBot-icon-only.png
