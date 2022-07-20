@@ -1,6 +1,6 @@
 # Welcome to OctoBot blog
 
-Since 2018, OctoBot is an open source cryptocurrency trading bot that allow hundred of users to trade easily with professional features.
+Since 2018, OctoBot is an open source cryptocurrency trading bot that allow hundreds of users to trade easily with professional features.
 
 The new OctoBot blog
 
