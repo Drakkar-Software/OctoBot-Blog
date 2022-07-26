@@ -10,7 +10,7 @@ domain: blog.octobot.online
 ![Hollaex-OctoBot](https://pbs.twimg.com/media/FXnZAluXwAIXNNd?format=jpg&name=4096x4096)
 
 OctoBot is excited to announce that it has joined Hollaex, the world’s first decentralized cryptocurrency exchange 
-platform in it's list of partner trading bots!```
+platform in it's list of partner trading bots!
 
 ## What is Hollaex
 
