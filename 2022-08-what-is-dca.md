@@ -13,7 +13,7 @@ When it comes to investing your money, there are a lot of different strategies t
 
 # What is dollar cost averaging strategy
 
-Dollar cost averaging is an investing technique whereby an investor purchases a fixed dollar amount of a particular investment on a regular schedule, regardless of the share price. By buying the same dollar amount each time, more shares are purchased when prices are low and fewer shares are bought when prices are high. Over time, this technique can help reduce the effects of volatility and risk on an investment portfolio.
+Dollar cost averaging is an investing technique whereby an investor purchases a fixed dollar amount of a particular investment on a regular schedule, regardless of the cryptocurrency price. By buying the same dollar amount each time, more cryptocurrencys are purchased when prices are low and fewer cryptocurrencys are bought when prices are high. Over time, this technique can help reduce the effects of volatility and risk on an investment portfolio.
 
 One of the main advantages of dollar cost averaging is that it takes the emotion out of investing. By buying into an investment on a regular schedule, investors can avoid the temptation to "time the market" by trying to predict when prices will go up or down. This strategy can also help investors stick to their long-term goals, even when markets are going through short-term ups and downs.
 
@@ -35,7 +35,7 @@ Dollar cost averaging is a technique that can be used when investing in order to
 
 However, there are some drawbacks to using dollar cost averaging as your investment strategy. One of the biggest drawbacks is that it can take a long time to see results from this type of investing. This is because you are investing a set amount of money at regular intervals, regardless of what the market is doing. This means that it may take years for your investment to grow to its full potential.
 
-Another drawback of dollar cost averaging is that you may end up paying more for your investment than if you had invested all at once. This is because you are buying more shares when the price is high and fewer shares when the price is low. Over time, this can average out to a higher overall cost for your investment.
+Another drawback of dollar cost averaging is that you may end up paying more for your investment than if you had invested all at once. This is because you are buying more cryptocurrencys when the price is high and fewer cryptocurrencys when the price is low. Over time, this can average out to a higher overall cost for your investment.
 
 Finally, dollar cost averaging does not guarantee that you will make a profit on your investment. It simply helps to minimize the risk of losses in a volatile market. If the market crashes, you could still lose
 
