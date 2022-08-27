@@ -35,7 +35,7 @@ Cryptocurrency future trading is essentially betting on the future price of a pa
 
 There are a few reasons why cryptocurrency future trading can be a good option. First, it allows you to get exposure to the price movement of a particular coin without actually having to own any of the coins. This can be helpful if you don't want to tie up your capital in a particular coin but still want to benefit from its price movement.
 
-Another reason why cryptocurrency future trading can be attractive is that it often provides leverage. This means that you can control a larger position than if you were just buying the coins outright. This can amplify both
+Another reason why cryptocurrency future trading can be attractive is that it often provides leverage. This means that you can control a larger position than if you were just buying the coins outright.
 
 # Some future trading strategies
 
@@ -59,7 +59,7 @@ OctoBot is an open-source software project that automates cryptocurrency trading
 
 OctoBot has a number of features that make it well suited for future trading. First, it supports multiple exchanges, allowing you to trade on multiple platforms simultaneously. Second, it includes a risk management system that can automatically adjust your position size to limit your losses. Third, it features a number of built-in strategies that you can use or customize to suit your own trading style.
 
-Fourth, and perhaps most importantly, OctoBot is constantly being updated with new features and improvements. This means that it will continue to get better over time, making it an ideal tool for long-term future trading.
+Finally, and perhaps most importantly, OctoBot is constantly being updated with new features and improvements. This means that it will continue to get better over time, making it an ideal tool for long-term future trading.
 
 ## How to use OctoBot for future trading
 
