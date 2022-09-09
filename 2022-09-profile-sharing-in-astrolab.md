@@ -39,7 +39,7 @@ Note: For now, we are manually checking profiles, therefore there will be a shor
 3. From your OctoBot, click `Import a profile`
 ![Profile-sharing-from-octobot-import](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/bot-import.jpg)
 4. Paste the download url (that was copied from step 2) and click `Import`
-![Profile-sharing-from-octobot-import-url](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/bot-import-url.jpg)
+![Profile-sharing-from-octobot-import-url](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/bot-import-link.jpg)
 5. The new profile is now available in your OctoBot
 ![Profile-sharing-from-octobot-importe](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/bot-imported.jpg)
 
