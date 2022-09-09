@@ -18,13 +18,13 @@ Sharing your profile means sharing your current trading strategy configuration. 
 
 # How to share a profile ?
 
-1. Select and download it from your OctoBot  
+1. Select and download it from your OctoBot
 ![Profile-sharing-from-octobot](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/bot-share.jpg)
-2. Login on [Astrolab](https://www.astrolab.cloud/), go to `Editor` and `Publish a new strategy`  
+2. Login on [Astrolab](https://www.astrolab.cloud/), go to `Editor` and `Publish a new strategy`
 ![Profile-sharing-astrolab-editor](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/editor.jpg)
-3. Enter your profile name, description and logo  
+3. Enter your profile name, description and logo
 ![Profile-sharing-astrolab-publish](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/publish.jpg)
-4. Upload the profile as downloaded from your OctoBot  
+4. Upload the profile as downloaded from your OctoBot
 ![Profile-sharing-astrolab-publish-profile](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/publish-profile.jpg)
 5. Submit your profile to make it available to everyone on Astrolab
 
@@ -32,15 +32,15 @@ Note: For now, we are manually checking profiles, therefore there will be a shor
 
 # How to use a profile from Astrolab ?
 
-1. Go yo the profile you want to use and click `Subscribe`  
-![Profile-sharing-astrolab-editor](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/subscribe.jpg)
-2. Now that you are subscribing to the profile, click `Copy download url`  
+1. Go yo the profile you want to use and click `Subscribe`
+![Profile-sharing-astrolab-subscribe](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/sub.jpg)
+2. Now that you are subscribing to the profile, click `Copy download url`
 ![Profile-sharing-astrolab-copy](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/copy.jpg)
-3. From your OctoBot, click `Import a profile`  
+3. From your OctoBot, click `Import a profile`
 ![Profile-sharing-from-octobot-import](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/bot-import.jpg)
-4. Paste the download url (that was copied from step 2) and click `Import`  
+4. Paste the download url (that was copied from step 2) and click `Import`
 ![Profile-sharing-from-octobot-import-url](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/bot-import-url.jpg)
-5. The new profile is now available in your OctoBot  
+5. The new profile is now available in your OctoBot
 ![Profile-sharing-from-octobot-importe](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/bot-imported.jpg)
 
 # Next steps
