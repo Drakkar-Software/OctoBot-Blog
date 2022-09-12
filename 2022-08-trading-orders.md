@@ -20,7 +20,7 @@ There are other types of orders, but market orders are the easiest to understand
 # Limit order, the most valuable  
 
 When it comes to trading, there are different types of orders that can be placed in order to execute a trade. Among these, the limit order is often considered the most valuable due to its ability to help traders get the best possible price for their desired asset.
-A limit order is a type of trade that gives you exact instructions on when and how much to buy or sell an asset at any time in future. Your trade will be executed either once your price is met or if there are significant changes in the value of this asset.
+A limit order is a type of trade that gives you exact instructions on when and how much to buy or sell an asset at any time in future. Your trade will be executed either once your price is met.
 
 # Stop order, securing your money
 
