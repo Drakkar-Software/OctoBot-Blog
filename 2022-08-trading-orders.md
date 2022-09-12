@@ -32,7 +32,7 @@ Remember, stop orders are not guaranteed to be executed at the specified price. 
 
 # Take profit order, cash out before it's too late
 
-When it comes to trading, one of the most important things to remember is to take profit before it's too late. That's why a take profit order is such an important tool for traders. A take profit order is an order to buy or sell a security at a certain price once it reaches a certain level of profit. This ensures that you lock in your profits and don't let them slip away. 
+When it comes to trading, one of the most important things to remember is to take profit before it's too late. That's why a take profit order is such an important tool for traders. A take profit order is an order to buy or sell an asset at a certain price once it reaches a certain level of profit. This ensures that you lock in your profits and don't let them slip away. 
 
 One of the biggest mistakes traders make is waiting too long to take profits. They think that they can ride the wave of a rising crypto and make even more money. But the reality is that the market can turn on a dime and all those profits can evaporate just as quickly. That's why it's important to take profits when you have them. 
 
