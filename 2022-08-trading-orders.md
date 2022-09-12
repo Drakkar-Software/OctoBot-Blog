@@ -28,7 +28,7 @@ When you're ready to start trading, you need to know the different types of orde
 
 Stop orders are often used to limit losses or protect profits. They can also be used to entering or exit a trade. For example, if you wanted to buy a crypto at $50 but it is currently trading at $49, you could place a stop order at $50. If the crypto reaches $50, your order will be executed and you will buy the crypto at $50. Or, if you wanted to sell a crypto at $50 but it is currently trading at $51, you could place a stop order at $50. If the crypto reaches $50, your order will be executed and you will sell the crypto at $50.
 
-Remember, stop orders are not guaranteed to be executed at the specified price. This is because once the stop price is reached, there may not be enough buyers or sellers.
+Remember, stop orders are not guaranteed to be executed at the specified price. This is because once the stop price is reached, there may not be enough buyers or sellers. Regular stop orders are executed at the best available price at the time of their trigger. Stop loss limit orders can be used to create a limit order when the stop order is trigger and avoid this risk. However since those are creating a limit order, if the price of the limit order is not met, you will end up with an unfilled open limit order.
 
 # Take profit order, cash out before it's too late
 
