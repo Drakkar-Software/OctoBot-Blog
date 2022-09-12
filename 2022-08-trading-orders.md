@@ -24,7 +24,7 @@ A limit order is a type of trade that gives you exact instructions on when and h
 
 # Stop order, securing your money
 
-When you're ready to start trading, you need to know the different types of orders that you can place. One important type of order is the stop order. A stop order is an order to buy or sell a security at a specified price. This type of order becomes active only when the security's price reaches the specified price. At that point, the order is executed at the next available price.
+When you're ready to start trading, you need to know the different types of orders that you can place. One important type of order is the stop order. A stop order is an order to buy or sell an asset at a specified price. This type of order becomes active only when the asset's price reaches the specified price. At that point, the order is executed at the next available price.
 
 Stop orders are often used to limit losses or protect profits. They can also be used to entering or exit a trade. For example, if you wanted to buy a crypto at $50 but it is currently trading at $49, you could place a stop order at $50. If the crypto reaches $50, your order will be executed and you will buy the crypto at $50. Or, if you wanted to sell a crypto at $50 but it is currently trading at $51, you could place a stop order at $50. If the crypto reaches $50, your order will be executed and you will sell the crypto at $50.
 
