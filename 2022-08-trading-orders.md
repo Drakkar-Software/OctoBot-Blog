@@ -7,7 +7,7 @@ cover: https://images.unsplash.com/photo-1642751226315-e6dc6b47fd54?ixlib=rb-1.2
 domain: blog.octobot.online
 --- 
 
-Trading cryptocurrencies can be exciting, but also take a lot of time if you don’t know how to do it. So, there are many different types of orders you can make to buy or sell on your exchange  according to what you want. Read our introductory article and get a basic understanding of the orders available.
+Trading cryptocurrencies can be exciting, but also take a lot of time if you don’t know how to do it. There are many different types of orders you can make to buy or sell on your exchange according to what you want. Read our introductory article and get a basic understanding of the orders available.
 
 # Market order, the easiest
 
