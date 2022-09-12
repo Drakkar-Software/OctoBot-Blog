@@ -11,7 +11,7 @@ Trading cryptocurrencies can be exciting, but also take a lot of time if you don
 
 # Market order, the easiest
 
-When you place a market order, you're telling your broker to buy or sell shares at the best available price. If you're buying, your broker will try to get the lowest possible price. If you're selling, they'll try to get the highest. 
+When you place a market order, you're telling your broker (the exchange) to buy or sell shares or crypto-assets at the best available price. If you're buying, your broker will try to get the lowest possible price. If you're selling, it will try to get the highest. 
 
 That's it! You don't have to worry about timing the market perfectly or anything like that. Just remember that if you're buying, you might not get the exact price you want, and if you're selling, you might not get the highest price possible. 
 
