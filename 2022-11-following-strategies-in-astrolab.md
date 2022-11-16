@@ -3,7 +3,7 @@ title: Following strategies in Astrolab
 subtitle: You can now follow trading strategies of the community
 slug: following-strategies-in-astrolab
 tags: cryptocurrency, trading, strategy, exchange, blog, astrolab
-cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/following-strategies-in-astrolab/cover.jpg
+cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/following-strategies-in-astrolab/cover.png
 domain: blog.octobot.online
 --- 
 
@@ -19,7 +19,7 @@ When subscribed to a strategy, you can use the strategy profile directly from yo
 ![Following-strategies-pre-sub](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/following-strategies-in-astrolab/pre-sub.png)
 3. Now that you are subscribing to the strategy, click `Copy download url`
 4. From your OctoBot, login to your Astrolab account
-![Following-strategies-community](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/community.png)
+![Following-strategies-community](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/following-strategies-in-astrolab/community.png)
 5. Go to the `Profile` tab and click on the name of the current profile, click `Import a profile`
 ![Following-strategies-import](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-astrolab/bot-import.jpg)
 6. Paste the download url (that was copied from step 3) and click `Import`
@@ -44,7 +44,7 @@ When a user wants to share a trading strategy, the only thing to do is to:
 ![Following-strategies-config](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/following-strategies-in-astrolab/config.png)
 
 Note: the identifier of the strategy to emit signal on can be found on the strategy page, by clicking on this button 
-![Following-strategies-id-button](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/following-strategies-in-astrolab/id_button.png)
+![Following-strategies-id-button](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/following-strategies-in-astrolab/id-button.png)
 
 Please note that configuration and content of a published strategy is not uploaded to Astrolab and followers can't access the code or configuration of the strategy. They will only get trading signals when the OctoBot that is actually running the strategy will create or cancel orders.
 
