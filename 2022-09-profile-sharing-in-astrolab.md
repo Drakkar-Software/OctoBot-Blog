@@ -56,4 +56,4 @@ With Astrolab, you will be able to:
 # Join the beta
 
 Sharing profiles will first be available on the [beta Astrolab](https://beta.astrolab.cloud/).
-To join the OctoBot beta program, [have a look here](https://www.octobot.info/advanced&#95usage/beta-program)
+To join the OctoBot beta program, [have a look here](https://www.octobot.info/advanced&#95;usage/beta-program)
