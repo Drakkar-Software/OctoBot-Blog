@@ -52,4 +52,4 @@ Please note that configuration and content of a published strategy is not upload
 # Join the beta
 
 Following strategies will first be available on the [beta Astrolab](https://beta.astrolab.cloud/).
-To join the OctoBot beta program, [have a look here](https://www.octobot.info/advanced\_usage/beta-program)
+To join the OctoBot beta program, [have a look here](https://www.octobot.info/advanced&#95usage/beta-program)
