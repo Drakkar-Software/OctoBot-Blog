@@ -49,4 +49,7 @@ Note: the identifier of the strategy to emit signal on can be found on the strat
 Please note that configuration and content of a published strategy is not uploaded to Astrolab and followers can't access the code or configuration of the strategy. They will only get trading signals when the OctoBot that is actually running the strategy will create or cancel orders.
 
 
-Join the Astrolab Beta on https://beta.astrolab.cloud/
+# Join the beta
+
+Following strategies will first be available on the [beta Astrolab](https://beta.astrolab.cloud/).
+To join the OctoBot beta program, [have a look here](https://www.octobot.info/advanced_usage/beta-program)

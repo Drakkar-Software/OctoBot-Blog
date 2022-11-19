@@ -52,4 +52,8 @@ With Astrolab, you will be able to:
 - Checkout past performances of available strategies
 - Create and use paid or free strategies that are made by the community: creators are incentivized to create strategies with the best results to earn money from paid subscribers that use the strategies 
 
-Join the Astrolab Beta on https://beta.astrolab.cloud/
+
+# Join the beta
+
+Sharing profiles will first be available on the [beta Astrolab](https://beta.astrolab.cloud/).
+To join the OctoBot beta program, [have a look here](https://www.octobot.info/advanced_usage/beta-program)
