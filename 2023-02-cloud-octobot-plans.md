@@ -3,7 +3,7 @@ title: Introducing Cloud OctoBot plans
 subtitle: Get your the perfect Cloud OctoBot
 slug: introducing-cloud-octobot-plans
 tags: hosting, cryptocurrency, trading, strategy, exchange, blog, octobot cloud
-cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/octobots-in-octobot-cloud/cover.jpg
+cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/introducing-cloud-octobot-plans/cover.jpg
 domain: blog.octobot.online
 --- 
 
@@ -47,7 +47,7 @@ Select a strategy on [OctoBot Cloud](https://www.octobot.cloud) and enjoy a free
 
 > Additionally, to celebrate the launch of Cloud OctoBots, we are running a time limited early bird offer which heavily discounts all the plans. This is a rare chance to get your Cloud OctoBot at a very cheap price.
 
-![plan-display](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/octobots-in-octobot-cloud/plans.jpg)
+![plan-display](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/introducing-cloud-octobot-plans/plans.jpg)
 
 You will find all the plans details on the [bots section of OctoBot Cloud](https://octobot.cloud/bots).
 
