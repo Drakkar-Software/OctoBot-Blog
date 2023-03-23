@@ -3,7 +3,7 @@ title: Introducing the Strategy Designer
 subtitle: Meet the new Strategy Designer and get the best out of your strategies
 slug: introducing-the-strategy-designer
 tags: strategy designer, backtestng, cryptocurrency, trading, strategy, exchange, blog, octobot cloud
-cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/introducing-the-strategy-designer/cover.jpg
+cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/introducing-the-strategy-designer/cover.png
 domain: blog.octobot.online
 --- 
 
@@ -12,7 +12,7 @@ When creating a trading strategy, the hardest part is often to test the strategy
 
 With the Strategy Designer, you will find many tools to experiment, analyse, compare and optimize your strategies and their configurations to their full potential. 
 
-![full-page](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/introducing-the-strategy-designer/full_page.png)
+![full-page](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/introducing-the-strategy-designer/full-page.png)
 
 Using the Strategy Designer, for any trading strategy, you can visualize each backtesting run:
 - Trades
@@ -29,7 +29,7 @@ Being able to see the exact behavior of your strategy through time in each backt
 
 Each analysis tool can be used to compare run results.
 
-![trades-comparison](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/introducing-the-strategy-designer/trades_comp.png)
+![trades-comparison](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/introducing-the-strategy-designer/trades-comp.png)
 
 # Store results  
 
