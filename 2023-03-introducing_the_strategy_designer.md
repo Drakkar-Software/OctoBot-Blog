@@ -23,7 +23,7 @@ Using the Strategy Designer, for any trading strategy, you can visualize each ba
 - Other insightful metrics
 
 # Compare backtesting runs
-Being able to see the exact behavior of your strategy through time in each backtest is good, comparing those values accross backtesting results is better.
+Being able to see the exact behavior of your strategy through time in each backtest is good, comparing those values across backtesting results is better.
 
 ![graph-comparison](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/introducing-the-strategy-designer/comparison.png)
 

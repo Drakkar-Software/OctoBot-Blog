@@ -29,7 +29,7 @@ The Essential plan is designed for traders who want to try different trading str
 With the Essential plan, you get access to the full version OctoBot, the same as when using the Self hosting plan, plus a few improvements such as free trading view webhooks.
 
 ## Pro
-> Comming soon
+> Coming soon
 
 The Pro plan is made for advanced traders who are using advanced strategy design tools, large history backtesting and want to get the very best out of their trading strategies. 
 
