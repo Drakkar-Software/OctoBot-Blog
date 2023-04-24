@@ -22,7 +22,7 @@ When following a TradingView strategy, your OctoBot will listen for TradingView 
 
 ![plan-display](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/trading-using-tradingview/telegram.png)
 
-You can send details on the order to create directly from the TradingView signal sur as the type of order, the limit and stop price and much more. View the full details of orders signals on [the OctoBot docs](https://www.octobot.info/webhooks/tradingview-webhook#create-an-alert).
+You can send details on the order to create directly from the TradingView signal such as the type of order, the take profit and stop loss prices and much more. View the full details of orders signals on [the OctoBot docs](https://www.octobot.info/webhooks/tradingview-webhook#create-an-alert).
 
 
 # How to bind your TradingView account to your OctoBot
