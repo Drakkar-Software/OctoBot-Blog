@@ -45,7 +45,7 @@ Strategies created within the Strategy Designer remain in the Strategy Designer 
 
 Once you are satisfied with your trading strategy created in the Strategy Designer, you can instantly convert it into a live OctoBot profile
 
-![convert to live profile](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/strategy-designer-revamp/use_as_live.png)
+![convert to live profile](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/strategy-designer-revamp/use-as-live.png)
 
 This profile will then be usable as any profile, which means that you can also share and edit it just the way you want.
 
