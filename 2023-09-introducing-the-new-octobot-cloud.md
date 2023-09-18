@@ -5,7 +5,6 @@ slug: introducing-the-new-octobot-cloud
 tags: free, cryptocurrency, trading, strategy, exchange, blog, octobot cloud
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695073973784/ViK1x3dhL.png?auto=format
 domain: blog.octobot.online
-saveAsDraft: true
 --- 
 
 # Why a new OctoBot cloud ?
@@ -41,14 +40,14 @@ Therefore, using those plans, you don't need to care about your OctoBot, we are 
 
 Besides simplicity, making strategies financially accessible is also important to us. For this reason, we designed the Investor plan to be completely free and unlimited.
 
-## No cost, monthly fees, it just works
-At OctoBot, we believe that making an free plan will help a lot of people accessing automated trading strategies. 
+## No cost, no monthly fees, it just works
+At OctoBot, we believe that making a free plan will help a lot of people accessing automated trading strategies. 
 
 That's why the Investor plan enables everyone to simply use trading strategies for free. 
 
 This not a free trial: when you use a strategy with the Investor plan, we are not asking for your payment information, there is **no monthly subscription fee, no % taken on gains, no hidden fees**.
 
-> How is this possible ? When using the Investor plan, we rely on exchange partnerships to pay for our running costs. This means that as long as you use an exchange account from an OctoBot official partner exchange, exchanges reward us and you are free to use the Investor plan forever. 
+> How is this possible ? When using the Investor plan, we rely on exchange partnerships to pay for our running costs. This means that as long as you use an exchange account from an OctoBot official partner, exchanges reward us and you are free to use the Investor plan forever. 
 
 ![plans](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/introducing-the-new-octobot-cloud/plans.png)
 
@@ -64,7 +63,7 @@ At OctoBot we believe in transparency. This means that sometimes strategies can 
 
 
 ## In a nutshell
-> The new Investor and Trader plans allow you to enjoy trading strategies in a very easy yet powerful way. Benefit from OctoBot based strategies without the technicalities of OctoBot. 
+> The new Investor and Trader plans allow you to enjoy trading strategies in a very easy yet powerful way. These plans allow you to benefit from OctoBot based strategies without the technicalities of OctoBot. 
 
 Learn more about the Investor and Trader plans from our new video showcasing the new OctoBot cloud:
 
@@ -72,7 +71,7 @@ Learn more about the Investor and Trader plans from our new video showcasing the
 
 
 # Create your own strategy: full OctoBot plans
-Today, [OctoBot cloud](https://octobot.click/xl3ZPZ) enables to run OctoBots on our cloud system and adds a few cloud-exclusive features such as the [strategy designer](https://blog.octobot.online/strategy-designer-revamp), [free trading view webhooks](https://blog.octobot.online/trading-using-tradingview) [ChatGPT integrations](https://blog.octobot.online/trading-using-chat-gpt). 
+Today, [OctoBot cloud](https://octobot.click/xl3ZPZ) enables you to run OctoBots on our cloud system and adds a few cloud-exclusive features such as the [strategy designer](https://blog.octobot.online/strategy-designer-revamp), [free trading view webhooks](https://blog.octobot.online/trading-using-tradingview) and [ChatGPT integrations](https://blog.octobot.online/trading-using-chat-gpt). 
 
 > Those offers will now be explicitely targeting users who want to create or customize strategies.
 
@@ -85,7 +84,7 @@ Basically nothing changed for the open source OctoBot, it will continue to grow 
 
 # Beta phase
 
-[The new OctoBot cloud](https://octobot.click/xl3ZPZ) is not in beta stage. While the technical part is fully fonctionnal, we are working on the last UI improvements before completely replacing the [current octobot.cloud](https://www.octobot.cloud/).
+At the time of writing, the [new OctoBot cloud](https://octobot.click/xl3ZPZ) is in beta stage. While the technical part is fully fonctionnal, we are working on the last user interface improvements before completely replacing the [current octobot.cloud](https://www.octobot.cloud/).
 
-Feel free to use, experiment and give us your feedback on [The new OctoBot cloud](https://octobot.click/xl3ZPZ), we are looking forward to knowing what your think of it.
-You will also find the [beta dedicated telegram channel here](https://t.me/+w94SJpqdiLthMzRk)
+Feel free to use, experiment and give us your feedback on the [new OctoBot cloud](https://octobot.click/xl3ZPZ), we are looking forward to knowing what your think of it and our new strategy-based plans.
+Join us on the [beta dedicated telegram channel here](https://octobot.click/MIeFUC)
