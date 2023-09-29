@@ -29,4 +29,4 @@ Finally, having a good trading strategy can help you to manage your risk. Risk m
 
 In the blog section, we will discuss how you can use OctoBot to automate your own trading strategy. OctoBot is a powerful tool that can help you take your trading to the next level. By automating your trading strategy, you can free up your time to focus on other important aspects of your life. OctoBot can help you stay disciplined with your trading and ensure that you are always following your predetermined rules. In addition, OctoBot can also help you manage your risk by automatically adjusting your position size according to your risk profile. 
 
-[Let's start automating your strategy](https://www.octobot.online)
+[Let's start automating your strategy](https://www.octobot.cloud/?utm_source=blog.octobot.online&utm_medium=dk&utm_campaign=articles&utm_content=trading_strategy)
