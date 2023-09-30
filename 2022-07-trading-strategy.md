@@ -2,7 +2,7 @@
 title: Trading Strategies
 subtitle: 
 slug: trading-strategy-automation
-tags: crypto, trading, strategy, automation, blog
+tags: crypto, trading, strategy, automation, octobot
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696073749766/lB7xNm5LA.jpg?auto=format
 domain: blog.octobot.online
 --- 

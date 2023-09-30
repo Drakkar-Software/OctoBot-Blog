@@ -2,8 +2,8 @@
 title: Strategy Designer Revamp
 subtitle: Enjoy the revamped Strategy Designer and created your best trading strategies
 slug: strategy-designer-revamp
-tags: strategy designer, revamp, configuration, backtesting, cryptocurrency, trading, strategy, exchange, blog, octobot cloud
-cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/strategy-designer-revamp/cover.png
+tags: strategy designer, configuration, backtesting, cryptocurrency, octobot cloud
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696079159205/0magmEds1.png?auto=format
 domain: blog.octobot.online
 --- 
 

@@ -2,8 +2,8 @@
 title: The basics of trading - The orders
 subtitle: 
 slug: trading-orders
-tags: crypto, trading, strategy, automation, orders, blog
-cover: https://images.unsplash.com/photo-1642751226315-e6dc6b47fd54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3774&q=80
+tags: crypto, trading, strategy, automation, orders
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696078958286/RJRjvd6YD.avif?auto=format
 domain: blog.octobot.online
 --- 
 

@@ -2,8 +2,8 @@
 title: Trading using TradingView
 subtitle: Automate your trades using any TradingView indicator 
 slug: trading-using-tradingview
-tags: tradingview, pinescript, webhook, cryptocurrency, trading, strategy, exchange, blog, octobot cloud
-cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/trading-using-tradingview/cover.png
+tags: tradingview, pinescript, webhook, strategy, octobot cloud
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696079176262/0CjxQotce.png?auto=format
 domain: blog.octobot.online
 --- 
 

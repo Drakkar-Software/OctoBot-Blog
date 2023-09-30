@@ -2,8 +2,8 @@
 title: DCA one of the most profitable strategies
 subtitle: Dollar cost averaging is one of the most profitable strategies for a long term investment
 slug: what-is-dca
-tags: cryptocurrency, trading, strategy, how-to, blog
-cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot/assets/OctoBot-icon-only.png
+tags: cryptocurrency, trading, strategy, how-to, dca
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696078983360/ilGJ9o1Wu.png?auto=format
 domain: blog.octobot.online
 --- 
 

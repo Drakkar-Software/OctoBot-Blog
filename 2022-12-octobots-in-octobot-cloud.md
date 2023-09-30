@@ -2,8 +2,8 @@
 title: Easily deploy your OctoBot in OctoBot Cloud
 subtitle: You can now easily deploy your OctoBot directly in OctoBot Cloud
 slug: deploy-octobots-in-octobot-cloud
-tags: hosting, cryptocurrency, trading, strategy, exchange, blog, octobot cloud
-cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/octobots-in-octobot-cloud/cover.png
+tags: hosting, cryptocurrency, trading, strategy, octobot cloud
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696079084896/eqd9o6KGP.png?auto=format
 domain: blog.octobot.online
 --- 
 

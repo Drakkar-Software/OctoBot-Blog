@@ -2,7 +2,7 @@
 title: Introducing the new OctoBot cloud
 subtitle: OctoBot cloud, a new way to profit from trading strategies 
 slug: introducing-the-new-octobot-cloud
-tags: free, cryptocurrency, trading, strategy, exchange, blog, octobot cloud
+tags: free, cryptocurrency, trading, strategy, exchange, octobot cloud
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695073973784/ViK1x3dhL.png?auto=format
 domain: blog.octobot.online
 --- 
