@@ -2,8 +2,8 @@
 title: Introducing the Strategy Designer
 subtitle: Meet the new Strategy Designer and get the best out of your strategies
 slug: introducing-the-strategy-designer
-tags: strategy designer, backtesting, cryptocurrency, trading, strategy, exchange, blog, octobot cloud
-cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/introducing-the-strategy-designer/cover.png
+tags: strategy designer, backtesting, cryptocurrency, trading, octobot cloud
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696079123511/eOMYJVfxa.png?auto=format
 domain: blog.octobot.online
 --- 
 

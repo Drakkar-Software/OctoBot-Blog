@@ -2,8 +2,8 @@
 title: What is cryptocurrency future trading
 subtitle: OctoBot is now supporting future trading
 slug: what-is-future-trading
-tags: cryptocurrency, trading, exchange, blog, hollaex
-cover: https://images.unsplash.com/photo-1518546305927-5a555bb7020d?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwyNTk3OTl8MHwxfHNlYXJjaHwxfHxjcnlwdG9jdXJyZW5jeXxlbnwwfHx8fDE2NTk4MjE0ODQ&ixlib=rb-1.2.1&q=80
+tags: cryptocurrency, trading, exchange, future, strategy
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696079015259/iI19YtYMQ.jpg?auto=format
 domain: blog.octobot.online
 --- 
 

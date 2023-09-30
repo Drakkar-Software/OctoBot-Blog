@@ -2,7 +2,7 @@
 title: Shape the future of our roadmap
 subtitle: Vote for what matters to you and influence the future of OctoBot
 slug: shape-the-future-with-our-roadmap
-tags: roadmap, vote, ideas, share, free, cryptocurrency, trading, strategy, exchange, blog, octobot cloud
+tags: roadmap, vote, share, cryptocurrency, octobot cloud
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696069011977/ZtpaiSLMZ.png?auto=format
 domain: blog.octobot.online
 --- 

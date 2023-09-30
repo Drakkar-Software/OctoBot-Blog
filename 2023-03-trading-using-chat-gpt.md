@@ -2,8 +2,8 @@
 title: Trading using ChatGPT
 subtitle: Use ChatGPT to predict market trends and trade accordingly
 slug: trading-using-chat-gpt
-tags: ChatGPT, AI, cryptocurrency, trading, strategy, exchange, blog, octobot cloud
-cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/trading-using-chat-gpt/cover.png
+tags: ChatGPT, AI, cryptocurrency, trading, octobot cloud
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696079141645/dazSL9qyQ.png?auto=format
 domain: blog.octobot.online
 --- 
 

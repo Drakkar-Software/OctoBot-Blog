@@ -2,7 +2,7 @@
 title: OctoBot is now supporting Hollaex
 subtitle: 
 slug: hollaex-partnership
-tags: crypto, trading, exchange, blog, hollaex
+tags: crypto, trading, exchange, partnership, hollaex
 cover: https://pbs.twimg.com/media/FXnZAluXwAIXNNd?format=jpg&name=4096x4096
 domain: blog.octobot.online
 --- 

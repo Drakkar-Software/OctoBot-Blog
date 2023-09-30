@@ -2,7 +2,7 @@
 title: Welcome to OctoBot blog
 subtitle: 
 slug: welcome-to-octobot-blog
-tags: crypto, trading, python, blog
+tags: crypto, trading, python, octobot
 cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot/assets/OctoBot-icon-only.png
 domain: blog.octobot.online
 --- 

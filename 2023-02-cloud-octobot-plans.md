@@ -2,8 +2,8 @@
 title: Introducing Cloud OctoBot plans
 subtitle: Get your the perfect Cloud OctoBot
 slug: introducing-cloud-octobot-plans
-tags: hosting, cryptocurrency, trading, strategy, exchange, blog, octobot cloud
-cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/introducing-cloud-octobot-plans/cover.jpg
+tags: hosting, cryptocurrency, trading, plans, octobot cloud
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696079102402/K_xfeNHYO.jpg?auto=format
 domain: blog.octobot.online
 --- 
 

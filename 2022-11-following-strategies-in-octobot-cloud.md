@@ -2,8 +2,8 @@
 title: Following strategies in OctoBot Cloud
 subtitle: You can now follow trading strategies of the community
 slug: following-strategies-in-octobot-cloud
-tags: cryptocurrency, trading, strategy, exchange, blog, octobot cloud
-cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/following-strategies-in-octobot-cloud/cover.png
+tags: cryptocurrency, trading, strategy, exchange, octobot cloud
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696079063694/mjE3tyGCM.png?auto=format
 domain: blog.octobot.online
 --- 
 

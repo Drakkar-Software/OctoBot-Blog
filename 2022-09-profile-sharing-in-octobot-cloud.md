@@ -2,8 +2,8 @@
 title: Profile sharing in OctoBot Cloud
 subtitle: You can now share your OctoBot profiles with the community
 slug: profile-sharing-in-octobot-cloud
-tags: cryptocurrency, trading, exchange, blog, octobot cloud
-cover: https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/profile-sharing-in-octobot-cloud/cover.jpg
+tags: cryptocurrency, trading, exchange, octobot cloud, sharing
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696079042103/5WCz3L5lT.jpg?auto=format
 domain: blog.octobot.online
 --- 
 
