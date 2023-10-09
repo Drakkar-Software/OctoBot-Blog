@@ -22,7 +22,7 @@ Artificial intelligence (AI) has revolutionized how we trade. It helps in analyz
 Reinforcement Learning is a type of machine learning (itself a type of AI) where an agent learns to make decisions by taking actions in an environment to maximize some notion of cumulative reward. An 'agent' in this context refers to the algorithm or program that is making the decisions. It operates by interacting with its environment (in this case, the trading market), taking actions (such as buying or selling stocks), and receiving rewards or penalties based on the outcome. The goal of this agent is to learn over time which actions lead to the best outcomes, in this case, the most profitable trades.
 In trading, we can use reinforcement learning to understand market dynamics, make accurate predictions, and execute profitable trades.
 
-![brain](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/trading-with-ai-introduction/brain.jpg)
+![brain](https://raw.githubusercontent.com/Drakkar-Software/OctoBot-Blog/master/resources/images/trading-with-ai-introduction/brain.jpeg)
 
 ## OctoBot script
 
