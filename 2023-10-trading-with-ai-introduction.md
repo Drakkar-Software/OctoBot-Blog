@@ -3,8 +3,8 @@ title: Crypto trading using artificial intelligence
 subtitle: Learn how to automate your crypto trading with AI in 5 steps
 slug: trading-with-ai-introduction
 tags: ai, deep learning, trading, cryptocurrency, octobot
-cover: 
-domain: octobot.cloud
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696882392556/RgxD6fE44.jpeg?auto=format
+domain: blog.octobot.online
 --- 
 
 # How to automate crypto trading using AI
