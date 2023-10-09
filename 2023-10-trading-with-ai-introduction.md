@@ -34,7 +34,7 @@ OctoBot script also allows users to test their strategies using past data throug
 
 ## How to use OctoBot script to trade with AI
 
-- Install OctoBot script by following the get started guide at [pro.octobot.info](https://www.octobot.cloud/guides/scripting/getting-started)
+- Install OctoBot script by following the get started guide on [github](https://github.com/Drakkar-Software/OctoBot-Script)
 - Install AI requirements with 
 ```
 pip install -r requirements-ai.txt
